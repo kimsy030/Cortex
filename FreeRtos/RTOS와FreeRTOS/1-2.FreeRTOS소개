@@ -1,0 +1,6 @@
+- 2003년 Richard Barry가 만든 ANSI C 기반 RTOS임.
+- 아마존 AWS IoT 서비스 확장을 위해 2017년 11월에 인수함.
+- 200개 이상의 폭넓은 MCU를 지원하며 포팅을 위한 다양한 컴파일러와 예제 제공.
+- MIT 라이센스로 조건없는 상업 목적 사용 가능.
+- Priority based preemptive scheduling을 사용하며, round-robin도 함께 지원한다.
+- 환경설정에 따라 binary image는 4KB ~ 9KB를 가질 정도로 굉장히 light-weight이며 높은 신뢰성과 안정성을 자랑한다.
